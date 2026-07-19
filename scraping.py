@@ -14,6 +14,9 @@ def get_data():
     return response.json()
 
 
-response = get_data()
+# test bench
+# response = get_data()
 
-print(response)
+# output = response[0]["current"][""]
+
+# print(output)
